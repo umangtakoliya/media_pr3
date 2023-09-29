@@ -1,16 +1,7 @@
-# media_pr_3
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screenshot - iPhone 14 - 2023-09-29 at 12 42 23](https://github.com/umangtakoliya/media_pr3/assets/138286678/0157ad72-5c52-44e0-b44c-efeb11f4f6dc)
+![Simulator Screenshot - iPhone 14 - 2023-09-29 at 12 42 59](https://github.com/umangtakoliya/media_pr3/assets/138286678/3acc61ec-9837-41a2-bde3-1e266f60aa04)
+![Simulator Screenshot - iPhone 14 - 2023-09-29 at 12 42 51](https://github.com/umangtakoliya/media_pr3/assets/138286678/f52ee4a9-ea54-4896-892f-4fc2dbe3913e)
+![Simulator Screenshot - iPhone 14 - 2023-09-29 at 12 42 44](https://github.com/umangtakoliya/media_pr3/assets/138286678/9925e91c-7c1c-497e-acd7-32cf392f0381)
+![Simulator Screenshot - iPhone 14 - 2023-09-29 at 12 42 38](https://github.com/umangtakoliya/media_pr3/assets/138286678/e28b5afc-237f-4b79-862c-e110ea8d1898)
+![Simulator Screenshot - iPhone 14 - 2023-09-29 at 12 42 33](https://github.com/umangtakoliya/media_pr3/assets/138286678/cbb8bae2-6b8f-4f26-b834-54024bd0bce8)
+![Simulator Screenshot - iPhone 14 - 2023-09-29 at 12 42 27](https://github.com/umangtakoliya/media_pr3/assets/138286678/b280921f-9a7c-4ffe-8e20-90e18b357c87)
