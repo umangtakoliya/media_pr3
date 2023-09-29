@@ -1,4 +1,4 @@
-List<Map<String, dynamic>> listvideo = [
+List<Map<String, dynamic>> video = [
   {
     'video':
     "lib/Utils/Assets/Video/Baarish_Yaariyan.mp4",

@@ -1,4 +1,4 @@
-List<Map<String, dynamic>> listsong = [
+List<Map<String, dynamic>> audio  = [
   {
     'audio': "lib/Utils/Assets/Audio/Dil_Nashin_Dil_Nashin.mp3",
     'title': "Nashin Dil Nashin",
